@@ -224,7 +224,7 @@ body {
     margin-top: 20px;
 }
 
-.movie-one, .movie-two{
+.movie-one, .movie-two, .movie-three{
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
